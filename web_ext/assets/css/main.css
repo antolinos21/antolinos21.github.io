@@ -22,7 +22,7 @@ section, summary, time, mark, audio, video {
 	padding: 0;
 	border: 0;
 	font-size: 80%;
-	font: calibri;
+	font: arial;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
+		background: #D3AAA1;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
